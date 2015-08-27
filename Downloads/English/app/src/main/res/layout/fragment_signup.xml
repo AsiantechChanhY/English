@@ -43,9 +43,9 @@
 
             <RelativeLayout
                 android:id="@+id/reEdittext"
+                android:layout_below="@+id/reAvatar"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/signup.relativelayout"
-                android:layout_below="@+id/reAvatar"
                 android:background="@color/white">
 
                 <RelativeLayout
